@@ -43,4 +43,4 @@ https://android-9-pie.vercel.app/Android%209.html
 
 https://android-9-pie.vercel.app/Android%2010.html
 
-https://android-9-pie.vercel.app/Android%2010%20patch%202.html
+https://android-9-pie.vercel.app/Android%2010%20patch%201.html
